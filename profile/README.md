@@ -23,13 +23,12 @@ JurisLM 是一個專為台灣法律環境設計的 AI 智慧法律平台，整�
 
 ---
 
-## 🚀 核心產品
+## 📦 開源專案
 
-| 產品 | 說明 | 狀態 |
+| 專案 | 說明 | 安裝 |
 |------|------|------|
-| **[Entire](https://entire.jurislm.com)** | 全量司法判決書 AI 搜尋與分析平台 | 🟢 上線中 |
-| **[Lawyer](https://lawyer.jurislm.com)** | 律師事務所智慧工作流程助理 | 🟢 上線中 |
-| **[LexVision](https://lexvision.jurislm.com)** | 法規視覺化與語意搜尋工具 | 🟢 上線中 |
+| **[coolify-mcp](https://github.com/jurislm/coolify-mcp)** | 讓 Claude AI 直接管理 Coolify 部署平台的 MCP 整合工具 | `npx jurislm-coolify-mcp` |
+| **[hetzner-mcp](https://github.com/jurislm/hetzner-mcp)** | 讓 Claude Code 透過自然語言管理 Hetzner Cloud 基礎設施 | `npm i -g hetzner-mcp-server` |
 
 ---
 
@@ -53,26 +52,6 @@ JurisLM 是一個專為台灣法律環境設計的 AI 智慧法律平台，整�
 - **AI**：Claude (Anthropic) · OpenAI Embeddings
 - **基礎設施**：Hetzner Cloud + Coolify + Cloudflare
 - **MCP**：自建 Coolify MCP Server ([coolify-mcp](https://github.com/jurislm/coolify-mcp)) · Hetzner MCP Server ([hetzner-mcp](https://github.com/jurislm/hetzner-mcp))
-
----
-
-## 📦 開源專案
-
-### 🔧 [coolify-mcp](https://github.com/jurislm/coolify-mcp)
-
-Coolify MCP Server — 讓 Claude AI 直接管理 Coolify 部署平台的 Model Context Protocol 整合工具。
-
-```bash
-npx jurislm-coolify-mcp
-```
-
-### ☁️ [hetzner-mcp](https://github.com/jurislm/hetzner-mcp)
-
-Hetzner MCP Server — 讓 Claude Code 透過自然語言管理 Hetzner Cloud 基礎設施，支援建立/刪除伺服器、SSH 金鑰管理等 14 種操作。
-
-```bash
-npm install -g hetzner-mcp-server
-```
 
 ---
 
