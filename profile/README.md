@@ -52,7 +52,7 @@ JurisLM 是一個專為台灣法律環境設計的 AI 智慧法律平台，整�
 - **後端**：Bun Runtime + PostgreSQL 16 + pgvector
 - **AI**：Claude (Anthropic) · OpenAI Embeddings
 - **基礎設施**：Hetzner Cloud + Coolify + Cloudflare
-- **MCP**：自建 Coolify MCP Server ([coolify-mcp](https://github.com/jurislm/coolify-mcp))
+- **MCP**：自建 Coolify MCP Server ([coolify-mcp](https://github.com/jurislm/coolify-mcp)) · Hetzner MCP Server ([hetzner-mcp](https://github.com/jurislm/hetzner-mcp))
 
 ---
 
@@ -64,6 +64,14 @@ Coolify MCP Server — 讓 Claude AI 直接管理 Coolify 部署平台的 Model 
 
 ```bash
 npx jurislm-coolify-mcp
+```
+
+### ☁️ [hetzner-mcp](https://github.com/jurislm/hetzner-mcp)
+
+Hetzner MCP Server — 讓 Claude Code 透過自然語言管理 Hetzner Cloud 基礎設施，支援建立/刪除伺服器、SSH 金鑰管理等 14 種操作。
+
+```bash
+npm install -g hetzner-mcp-server
 ```
 
 ---
