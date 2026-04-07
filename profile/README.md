@@ -1,7 +1,4 @@
 <div align="center">
-
-<img src="https://github.com/jurislm.png" width="120" alt="JurisLM Logo" />
-
 # JurisLM
 
 **AI 驅動的法律智慧平台 · AI-Powered Legal Intelligence for Taiwan**
