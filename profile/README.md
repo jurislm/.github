@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/jurislm" width="120" alt="JurisLM Logo" />
+<img src="https://github.com/jurislm.png" width="120" alt="JurisLM Logo" />
 
 # JurisLM
 
