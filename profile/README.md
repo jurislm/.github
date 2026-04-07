@@ -4,9 +4,8 @@
 
 **AI 驅動的法律智慧平台 · AI-Powered Legal Intelligence for Taiwan**
 
-[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/orgs/jurislm/repositories?language=typescript)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/orgs/jurislm/repositories?language=python)
-[![Anthropic](https://img.shields.io/badge/Powered_by-Claude_AI-orange?style=for-the-badge)](https://www.anthropic.com)
+[![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com)
+[![Claude](https://img.shields.io/badge/Anthropic_Claude-D97706?style=for-the-badge)](https://www.anthropic.com)
 
 </div>
 
