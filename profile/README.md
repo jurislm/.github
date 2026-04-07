@@ -4,7 +4,6 @@
 
 **AI 驅動的法律智慧平台 · AI-Powered Legal Intelligence for Taiwan**
 
-[![Website](https://img.shields.io/badge/🌐_Website-jurislm.com-blue?style=for-the-badge)](https://entire.jurislm.com)
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/orgs/jurislm/repositories?language=typescript)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/orgs/jurislm/repositories?language=python)
 [![Anthropic](https://img.shields.io/badge/Powered_by-Claude_AI-orange?style=for-the-badge)](https://www.anthropic.com)
